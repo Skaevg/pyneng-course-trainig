@@ -1,0 +1,28 @@
+Ethernet0/0 is up, line protocol is up
+    Internet address is 192.168.100.1/24
+    Broadcast address is 255.255.255.255
+    Address determined by non-colatile memory
+    MTU is 1500 bytes
+    IP CEF switching turbo vector
+    WCCP Redirect exlude is disabled
+Ethernet1/0 is up, line protocol is up
+    Internet address is 192.168.200.1/24
+    Broadcast address is 255.255.255.255
+    Address determined by non-colatile memory
+    MTU is 1500 bytes
+    IP CEF switching turbo vector
+    WCCP Redirect exlude is disabled  
+Ethernet3/0 is up, line protocol is up
+    Internet address is 19.1.1.1/24
+    Broadcast address is 255.255.255.255
+    Address determined by non-colatile memory
+    MTU is 1500 bytes
+    IP CEF switching turbo vector
+    WCCP Redirect exlude is disabled
+Ethernet4/0 is up, line protocol is up
+    Internet address processing disabled
+    Broadcast address is 255.255.255.255
+    Address determined by non-colatile memory
+    MTU is 1500 bytes
+    IP CEF switching turbo vector
+    WCCP Redirect exlude is disabled
